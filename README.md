@@ -1,4 +1,4 @@
-# MLOps - Consumer Approval
+# ML Infrastructure - Consumer Approval
 
 ## Description
 
