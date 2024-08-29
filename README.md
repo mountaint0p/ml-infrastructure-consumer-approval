@@ -4,7 +4,7 @@
 
 This project aims to predict the consumer approval score for a given order based on features like order status, price, payment, etc
 through a machine learning model. Furthermore,
-this project creates an end-to-end machine learning workflow for both continuous training and deploying the model. It aims to implement best practices with regards to MLOps.
+this project creates an end-to-end machine learning workflow for both continuous training and deploying the model.
 
 ## Tech Stack
 
